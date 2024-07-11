@@ -1,2 +1,2 @@
-# Futbolcu Temas Tespiti Programı
-Python ile YOLOv4 kullanarak video görüntüsünde hareket halindeki futbolcuları tespit edip CNN derin öğrenme modeli kullanarak sınıflandırma yapan ve futbolcular arasındaki temas tespitini belirleyen uygulama.
+# Football Player Contact Detection Program
+Application that detects moving football players in a video using YOLOv4 with Python,classifies them using a CNN deep learning model and identifies contact between players with UI.
